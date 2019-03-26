@@ -49,5 +49,8 @@
     },
     "popup_relative_date": {
         "message": "絶対時間で時間を表示する"
+    },
+    "popup_issue_fullscreen": {
+        "message": "fullscreen"
     }
 }

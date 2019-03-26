@@ -49,5 +49,8 @@
     },
     "popup_relative_date": {
         "message": "Show relative date"
+    },
+    "popup_issue_fullscreen": {
+        "message": "fullscreen"
     }
 }
